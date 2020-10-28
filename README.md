@@ -1,1 +1,1 @@
-# git_summative_Zagorodnyuk_Vasilevskiy
+# Демонстрация командной работы с git учеников Zagorodnyuk и Vasilevskiy
